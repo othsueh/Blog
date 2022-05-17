@@ -1,11 +1,12 @@
 ---
 author: "Othsueh"
 title: "My First Post"
-date: 2022-04-06T11:57:39+08:00
+date: 2021-08-26T11:57:39+08:00
 draft: false
 description: "Frist post!"
-tags: ["themes"]
-archives: ["2020/08"]
+tags: ["Obsidian"]
+archives: ["2021/08"]
+image: "img/md.jpg"
 ---
 
 # Hello everyone !
@@ -14,26 +15,26 @@ archives: ["2020/08"]
 * 我試試看
 * ctrl + E 是預覽(也可以3點按分割)
 
-# 大標
-* nonno
+# H1
 
-##中標
-* 隨便
-###小標
-####我稱為小小標
+## H2
 
-** 加粗**
+### H3
 
->hello world! 引用
->存檔以md檔，可以任意開啟，帶走
+#### H4
 
-2. 有自己的話講一遍
+**strong**
+
+>引用<br>
+>存檔以md檔
+
+1. 有自己的話講一遍
 * 圖片、語音、pdf直接拖進來，變成md文法
 
-3. 引用內容標記出處
+2. 引用內容標記出處
 [**天哪我給大腦開外掛了！它完全顛覆了大家對筆記軟體的認知**](https://www.youtube.com/watch?v=Egj_DdGUIDI&t=276s)
 
-4. 建立筆記間的連結
+3. 建立筆記間的連結
 [[教學]]
 
-5. 筆記內容簡明扼要
+4. 筆記內容簡明扼要
